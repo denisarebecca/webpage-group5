@@ -3,9 +3,9 @@
         	<Body><body style = background-color:#6495ED>
 <Header><p align = "center"> <font size = "70" face = "Copperplate gothic bold" color = "black"><b><u>Covid-19</u></b></font>
 <br><p align = "center"><img src = "lol.jpg" Width = "820"  Length = "440">
-<br><p align = "left"><Font size = "6"><Font color = "black"><body style = ackground-color:#FCF8EC>
+<br><p align = "left"><Font size = "6"><Font color = "black"><body style = background-color:#FCF8EC>
 What is Covid 19?
-<p align = "left"><Font size = "4"><Font color = "black"> <Font face ="Castellar">
+<p align = "left"><Font size = "4"><Font color = "black"> <Font face = "Castellar">
 Coronavirus disease (COVID-19),
 <br>is an infectious disease caused by a newly discovered coronavirus.
 <br>Most people who fall sick with COVID-19 will experience mild to moderate symptoms and  
