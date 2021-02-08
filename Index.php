@@ -1,7 +1,7 @@
 <html>
 <H1> <title>COVID 19</title> </H1>
         	<Body><body style = background-color:#6495ED>
-<H4><p align = "center"> <font size = "70" face = "Copperplate gothic bold" color = "black"><b><u>Covid-19</u></b></font></H4>
+<H4> <p align = "center"> <font size = "70" face = "Copperplate gothic bold" color = "black"><b><u>Covid-19</u></b></font> </H4>
 <br><p align = "center"><img src = "lol.jpg" Width = "820"  Length = "440">
 <br><p align = "left"><Font size = "6"><Font color = "black"><body style = background-color:#FCF8EC>
 What is Covid 19?
