@@ -19,3 +19,5 @@ SARS-CoV-2disease that can cause what doctors call respiratory tract infection.
 It spreads in the same way as other coronaviruses do, mainly through person-to-person contact. 
 Infections range from mild to fatal.
 <br>
+        </body>
+        </html>
